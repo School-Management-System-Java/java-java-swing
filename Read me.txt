@@ -1,0 +1,15 @@
+ITP-2019-MTR-03
+
+Bank Management System
+
+Leader-
+	M.A.A. Ahkam(IT18098174)-maaahkam@gmail.com
+
+Microsoft SQL Server Management Studio use for sql connection
+Eclipse use for Development
+
+sqljdbc42.jar use for MS SQL Server Management Studio connection(must)
+WindowBuilder use for interface development
+Jcalendar-1.4.jar use for Date Chooser
+itext-1.4.6.jar use for report generate
+rs2xml.jar use for table print
